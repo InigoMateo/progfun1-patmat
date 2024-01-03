@@ -10,7 +10,7 @@ The leaf nodes have associated with them a weight which denotes the frequency of
 
 Every branching node of the code tree can be thought of as a set containing the characters present in the leaves below it. The weight of a branching node is the total weight of the leaves below it: this information is necessary for the construction of the tree.
 
-![Local Image](/home/inigo/Downloads/HuffmanTree.png)
+![HuffmanTree](https://github.com/InigoMateo/progfun1-patmat/assets/149253263/a56e7c02-04a1-402c-bf79-4861ab9ae0fc)
 
 Note that a given encoding is only optimal if the character frequencies in the encoded text match the weights in the code tree.
 
